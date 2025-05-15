@@ -53,24 +53,6 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Maj"
-    },
-	      {
-      "data": "2025-04-01",
-      "kategoria": "PGE",
-      "kwota": 7.97,
-      "opis": "Prąd Luty/Marzec"
-    },
-	      {
-      "data": "2025-04-01",
-      "kategoria": "PGE",
-      "kwota": 5.97,
-      "opis": "Prąd Luty/Marzec"
-    },
-	      {
-      "data": "2025-04-01",
-      "kategoria": "PGE",
-      "kwota": 2.97,
-      "opis": "Prąd Luty/Marzec"
     }
   ]
 }
